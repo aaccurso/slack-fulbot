@@ -5,4 +5,4 @@
 `me bajo | -1` - Borra al jugador que ejecuta el comando.
 `@jugador juega` - Anota al jugador especificado.
 `@jugador no juega` - Borra al jugador especificado.
-`@julito help` - Muestra este mensaje.
+`help` - Muestra este mensaje.
